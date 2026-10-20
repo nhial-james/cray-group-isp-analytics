@@ -1,0 +1,1456 @@
+{
+  "Summary": [
+    {
+      "SALES SUMMARY DASHBOARD": "Key Metrics",
+      "": "",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Total Revenue",
+      "": "KSh 238,375",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Total Vouchers",
+      "": "5,904",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Average Revenue per Voucher",
+      "": "KSh 40",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Voucher Status",
+      "": "Count",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Active",
+      "": 184,
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Expired",
+      "": 4848,
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Used",
+      "": 872,
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Top 5 Packages by Revenue",
+      "": "",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Package",
+      "": "Revenue",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "5GB Daily",
+      "": "KSh 125,073",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "20GB Weekly",
+      "": "KSh 45,372",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "3GB 6hrs",
+      "": "KSh 25,400",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "8GB Daily",
+      "": "KSh 24,304",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "3 GB",
+      "": "KSh 6,075",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Top 5 Stations by Revenue",
+      "": "",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Station",
+      "": "Revenue",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Daystar",
+      "": "KSh 225,149",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Juja",
+      "": "KSh 13,215",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "mumias",
+      "": "KSh 11",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "bookers",
+      "": "KSh 0",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Public Hotspot",
+      "": "KSh 0",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Monthly Growth",
+      "": "",
+      "_1": "",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "Month",
+      "": "Vouchers",
+      "_1": "Growth %",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-04",
+      "": "5",
+      "_1": "-",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-05",
+      "": "674",
+      "_1": "13380.0%",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-06",
+      "": "1,405",
+      "_1": "108.5%",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-07",
+      "": "1,441",
+      "_1": "2.6%",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-08",
+      "": "1,183",
+      "_1": "-17.9%",
+      "_2": ""
+    },
+    {
+      "SALES SUMMARY DASHBOARD": "2025-09",
+      "": "1,196",
+      "_1": "1.1%",
+      "_2": ""
+    }
+  ],
+  "Sales by Day": [
+    {
+      "Date": "2025-09-28",
+      "Total Vouchers": 1
+    },
+    {
+      "Date": "2025-09-27",
+      "Total Vouchers": 64
+    },
+    {
+      "Date": "2025-09-26",
+      "Total Vouchers": 60
+    },
+    {
+      "Date": "2025-09-25",
+      "Total Vouchers": 63
+    },
+    {
+      "Date": "2025-09-24",
+      "Total Vouchers": 50
+    },
+    {
+      "Date": "2025-09-23",
+      "Total Vouchers": 72
+    },
+    {
+      "Date": "2025-09-22",
+      "Total Vouchers": 53
+    },
+    {
+      "Date": "2025-09-21",
+      "Total Vouchers": 55
+    },
+    {
+      "Date": "2025-09-20",
+      "Total Vouchers": 58
+    },
+    {
+      "Date": "2025-09-19",
+      "Total Vouchers": 61
+    },
+    {
+      "Date": "2025-09-18",
+      "Total Vouchers": 55
+    },
+    {
+      "Date": "2025-09-17",
+      "Total Vouchers": 63
+    },
+    {
+      "Date": "2025-09-16",
+      "Total Vouchers": 26
+    },
+    {
+      "Date": "2025-09-15",
+      "Total Vouchers": 56
+    },
+    {
+      "Date": "2025-09-14",
+      "Total Vouchers": 51
+    },
+    {
+      "Date": "2025-09-13",
+      "Total Vouchers": 31
+    },
+    {
+      "Date": "2025-09-12",
+      "Total Vouchers": 39
+    },
+    {
+      "Date": "2025-09-11",
+      "Total Vouchers": 38
+    },
+    {
+      "Date": "2025-09-10",
+      "Total Vouchers": 35
+    },
+    {
+      "Date": "2025-09-09",
+      "Total Vouchers": 29
+    },
+    {
+      "Date": "2025-09-08",
+      "Total Vouchers": 25
+    },
+    {
+      "Date": "2025-09-07",
+      "Total Vouchers": 22
+    },
+    {
+      "Date": "2025-09-06",
+      "Total Vouchers": 22
+    },
+    {
+      "Date": "2025-09-05",
+      "Total Vouchers": 36
+    },
+    {
+      "Date": "2025-09-04",
+      "Total Vouchers": 32
+    },
+    {
+      "Date": "2025-09-03",
+      "Total Vouchers": 31
+    },
+    {
+      "Date": "2025-09-02",
+      "Total Vouchers": 38
+    },
+    {
+      "Date": "2025-09-01",
+      "Total Vouchers": 30
+    },
+    {
+      "Date": "2025-08-31",
+      "Total Vouchers": 26
+    },
+    {
+      "Date": "2025-08-30",
+      "Total Vouchers": 34
+    }
+  ],
+  "Revenue Trend": [
+    {
+      "Date": "2025-09-01",
+      "Vouchers Sold": 30,
+      "Revenue": "KSh 1,159",
+      "Avg per Voucher": "KSh 39"
+    },
+    {
+      "Date": "2025-09-02",
+      "Vouchers Sold": 38,
+      "Revenue": "KSh 1,159",
+      "Avg per Voucher": "KSh 31"
+    },
+    {
+      "Date": "2025-09-03",
+      "Vouchers Sold": 31,
+      "Revenue": "KSh 1,296",
+      "Avg per Voucher": "KSh 42"
+    },
+    {
+      "Date": "2025-09-04",
+      "Vouchers Sold": 32,
+      "Revenue": "KSh 1,100",
+      "Avg per Voucher": "KSh 34"
+    },
+    {
+      "Date": "2025-09-05",
+      "Vouchers Sold": 36,
+      "Revenue": "KSh 1,617",
+      "Avg per Voucher": "KSh 45"
+    },
+    {
+      "Date": "2025-09-06",
+      "Vouchers Sold": 22,
+      "Revenue": "KSh 769",
+      "Avg per Voucher": "KSh 35"
+    },
+    {
+      "Date": "2025-09-07",
+      "Vouchers Sold": 22,
+      "Revenue": "KSh 1,117",
+      "Avg per Voucher": "KSh 51"
+    },
+    {
+      "Date": "2025-09-08",
+      "Vouchers Sold": 25,
+      "Revenue": "KSh 963",
+      "Avg per Voucher": "KSh 39"
+    },
+    {
+      "Date": "2025-09-09",
+      "Vouchers Sold": 29,
+      "Revenue": "KSh 1,399",
+      "Avg per Voucher": "KSh 48"
+    },
+    {
+      "Date": "2025-09-10",
+      "Vouchers Sold": 35,
+      "Revenue": "KSh 1,400",
+      "Avg per Voucher": "KSh 40"
+    },
+    {
+      "Date": "2025-09-11",
+      "Vouchers Sold": 38,
+      "Revenue": "KSh 1,870",
+      "Avg per Voucher": "KSh 49"
+    },
+    {
+      "Date": "2025-09-12",
+      "Vouchers Sold": 39,
+      "Revenue": "KSh 1,754",
+      "Avg per Voucher": "KSh 45"
+    },
+    {
+      "Date": "2025-09-13",
+      "Vouchers Sold": 31,
+      "Revenue": "KSh 1,146",
+      "Avg per Voucher": "KSh 37"
+    },
+    {
+      "Date": "2025-09-14",
+      "Vouchers Sold": 51,
+      "Revenue": "KSh 2,243",
+      "Avg per Voucher": "KSh 44"
+    },
+    {
+      "Date": "2025-09-15",
+      "Vouchers Sold": 56,
+      "Revenue": "KSh 2,704",
+      "Avg per Voucher": "KSh 48"
+    },
+    {
+      "Date": "2025-09-16",
+      "Vouchers Sold": 26,
+      "Revenue": "KSh 1,057",
+      "Avg per Voucher": "KSh 41"
+    },
+    {
+      "Date": "2025-09-17",
+      "Vouchers Sold": 63,
+      "Revenue": "KSh 3,037",
+      "Avg per Voucher": "KSh 48"
+    },
+    {
+      "Date": "2025-09-18",
+      "Vouchers Sold": 55,
+      "Revenue": "KSh 3,393",
+      "Avg per Voucher": "KSh 62"
+    },
+    {
+      "Date": "2025-09-19",
+      "Vouchers Sold": 61,
+      "Revenue": "KSh 2,585",
+      "Avg per Voucher": "KSh 42"
+    },
+    {
+      "Date": "2025-09-20",
+      "Vouchers Sold": 58,
+      "Revenue": "KSh 2,852",
+      "Avg per Voucher": "KSh 49"
+    },
+    {
+      "Date": "2025-09-21",
+      "Vouchers Sold": 55,
+      "Revenue": "KSh 3,404",
+      "Avg per Voucher": "KSh 62"
+    },
+    {
+      "Date": "2025-09-22",
+      "Vouchers Sold": 53,
+      "Revenue": "KSh 1,830",
+      "Avg per Voucher": "KSh 35"
+    },
+    {
+      "Date": "2025-09-23",
+      "Vouchers Sold": 72,
+      "Revenue": "KSh 3,534",
+      "Avg per Voucher": "KSh 49"
+    },
+    {
+      "Date": "2025-09-24",
+      "Vouchers Sold": 50,
+      "Revenue": "KSh 2,385",
+      "Avg per Voucher": "KSh 48"
+    },
+    {
+      "Date": "2025-09-25",
+      "Vouchers Sold": 63,
+      "Revenue": "KSh 3,783",
+      "Avg per Voucher": "KSh 60"
+    },
+    {
+      "Date": "2025-09-26",
+      "Vouchers Sold": 60,
+      "Revenue": "KSh 2,566",
+      "Avg per Voucher": "KSh 43"
+    },
+    {
+      "Date": "2025-09-27",
+      "Vouchers Sold": 64,
+      "Revenue": "KSh 2,568",
+      "Avg per Voucher": "KSh 40"
+    },
+    {
+      "Date": "2025-09-28",
+      "Vouchers Sold": 1,
+      "Revenue": "KSh 39",
+      "Avg per Voucher": "KSh 39"
+    }
+  ],
+  "Packages": [
+    {
+      "Package Name": "5GB Daily",
+      "Total Vouchers": "3,538",
+      "Total Revenue": "KSh 125,073",
+      "Free Vouchers": "331",
+      "Avg Revenue": "KSh 35"
+    },
+    {
+      "Package Name": "20GB Weekly",
+      "Total Vouchers": "263",
+      "Total Revenue": "KSh 45,372",
+      "Free Vouchers": "35",
+      "Avg Revenue": "KSh 173"
+    },
+    {
+      "Package Name": "3GB 6hrs",
+      "Total Vouchers": "1,037",
+      "Total Revenue": "KSh 25,400",
+      "Free Vouchers": "21",
+      "Avg Revenue": "KSh 24"
+    },
+    {
+      "Package Name": "8GB Daily",
+      "Total Vouchers": "528",
+      "Total Revenue": "KSh 24,304",
+      "Free Vouchers": "32",
+      "Avg Revenue": "KSh 46"
+    },
+    {
+      "Package Name": "3 GB",
+      "Total Vouchers": "261",
+      "Total Revenue": "KSh 6,075",
+      "Free Vouchers": "18",
+      "Avg Revenue": "KSh 23"
+    },
+    {
+      "Package Name": "100GB Monthly",
+      "Total Vouchers": "46",
+      "Total Revenue": "KSh 5,000",
+      "Free Vouchers": "41",
+      "Avg Revenue": "KSh 109"
+    },
+    {
+      "Package Name": "5GB",
+      "Total Vouchers": "83",
+      "Total Revenue": "KSh 3,042",
+      "Free Vouchers": "5",
+      "Avg Revenue": "KSh 37"
+    },
+    {
+      "Package Name": "20GB",
+      "Total Vouchers": "24",
+      "Total Revenue": "KSh 2,786",
+      "Free Vouchers": "10",
+      "Avg Revenue": "KSh 116"
+    },
+    {
+      "Package Name": "100GB",
+      "Total Vouchers": "12",
+      "Total Revenue": "KSh 1,099",
+      "Free Vouchers": "11",
+      "Avg Revenue": "KSh 92"
+    },
+    {
+      "Package Name": "8GB",
+      "Total Vouchers": "7",
+      "Total Revenue": "KSh 147",
+      "Free Vouchers": "4",
+      "Avg Revenue": "KSh 21"
+    },
+    {
+      "Package Name": "3GB",
+      "Total Vouchers": "87",
+      "Total Revenue": "KSh 77",
+      "Free Vouchers": "10",
+      "Avg Revenue": "KSh 1"
+    },
+    {
+      "Package Name": "8mbps",
+      "Total Vouchers": "2",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "2",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "Monthly_plan",
+      "Total Vouchers": "8",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "8",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "Monthly_ppoe",
+      "Total Vouchers": "1",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "1",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "Monthly ppoe daystar",
+      "Total Vouchers": "1",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "1",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "monthly 20mbps",
+      "Total Vouchers": "4",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "4",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "kayole ppoe",
+      "Total Vouchers": "1",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "1",
+      "Avg Revenue": "KSh 0"
+    },
+    {
+      "Package Name": "kayole ppoe2",
+      "Total Vouchers": "1",
+      "Total Revenue": "KSh 0",
+      "Free Vouchers": "1",
+      "Avg Revenue": "KSh 0"
+    }
+  ],
+  "Stations": [
+    {
+      "Station Name": "Daystar",
+      "Total Vouchers": "5,181",
+      "Revenue": "KSh 225,149",
+      "Avg per Voucher": "KSh 43"
+    },
+    {
+      "Station Name": "Juja",
+      "Total Vouchers": "455",
+      "Revenue": "KSh 13,215",
+      "Avg per Voucher": "KSh 29"
+    },
+    {
+      "Station Name": "mumias",
+      "Total Vouchers": "36",
+      "Revenue": "KSh 11",
+      "Avg per Voucher": "KSh 0"
+    },
+    {
+      "Station Name": "bookers",
+      "Total Vouchers": "1",
+      "Revenue": "KSh 0",
+      "Avg per Voucher": "KSh 0"
+    },
+    {
+      "Station Name": "Public Hotspot",
+      "Total Vouchers": "231",
+      "Revenue": "KSh 0",
+      "Avg per Voucher": "KSh 0"
+    }
+  ],
+  "Top Customers": [
+    {
+      "Rank": 1,
+      "Phone Number": "254745754571",
+      "Vouchers Bought": "145",
+      "Total Spent": "KSh 200,630",
+      "Lifetime Value": "KSh 200,630"
+    },
+    {
+      "Rank": 2,
+      "Phone Number": "254701627326",
+      "Vouchers Bought": "222",
+      "Total Spent": "KSh 5,676",
+      "Lifetime Value": "KSh 5,676"
+    },
+    {
+      "Rank": 3,
+      "Phone Number": "254703879027",
+      "Vouchers Bought": "14",
+      "Total Spent": "KSh 4,882",
+      "Lifetime Value": "KSh 4,882"
+    },
+    {
+      "Rank": 4,
+      "Phone Number": "254728762828",
+      "Vouchers Bought": "106",
+      "Total Spent": "KSh 4,454",
+      "Lifetime Value": "KSh 4,454"
+    },
+    {
+      "Rank": 5,
+      "Phone Number": "254759738408",
+      "Vouchers Bought": "97",
+      "Total Spent": "KSh 4,419",
+      "Lifetime Value": "KSh 4,419"
+    },
+    {
+      "Rank": 6,
+      "Phone Number": "254759275395",
+      "Vouchers Bought": "105",
+      "Total Spent": "KSh 4,331",
+      "Lifetime Value": "KSh 4,331"
+    },
+    {
+      "Rank": 7,
+      "Phone Number": "0745754571",
+      "Vouchers Bought": "8",
+      "Total Spent": "KSh 4,166",
+      "Lifetime Value": "KSh 4,166"
+    },
+    {
+      "Rank": 8,
+      "Phone Number": "254715516563",
+      "Vouchers Bought": "26",
+      "Total Spent": "KSh 4,054",
+      "Lifetime Value": "KSh 4,054"
+    },
+    {
+      "Rank": 9,
+      "Phone Number": "254797519883",
+      "Vouchers Bought": "29",
+      "Total Spent": "KSh 4,041",
+      "Lifetime Value": "KSh 4,041"
+    },
+    {
+      "Rank": 10,
+      "Phone Number": "254758007245",
+      "Vouchers Bought": "97",
+      "Total Spent": "KSh 3,751",
+      "Lifetime Value": "KSh 3,751"
+    },
+    {
+      "Rank": 11,
+      "Phone Number": "254714347948",
+      "Vouchers Bought": "91",
+      "Total Spent": "KSh 3,719",
+      "Lifetime Value": "KSh 3,719"
+    },
+    {
+      "Rank": 12,
+      "Phone Number": "254742366514",
+      "Vouchers Bought": "95",
+      "Total Spent": "KSh 3,705",
+      "Lifetime Value": "KSh 3,705"
+    },
+    {
+      "Rank": 13,
+      "Phone Number": "254743767191",
+      "Vouchers Bought": "33",
+      "Total Spent": "KSh 3,693",
+      "Lifetime Value": "KSh 3,693"
+    },
+    {
+      "Rank": 14,
+      "Phone Number": "254711557443",
+      "Vouchers Bought": "93",
+      "Total Spent": "KSh 3,659",
+      "Lifetime Value": "KSh 3,659"
+    },
+    {
+      "Rank": 15,
+      "Phone Number": "254758342906",
+      "Vouchers Bought": "94",
+      "Total Spent": "KSh 3,498",
+      "Lifetime Value": "KSh 3,498"
+    },
+    {
+      "Rank": 16,
+      "Phone Number": "254702200035",
+      "Vouchers Bought": "23",
+      "Total Spent": "KSh 3,483",
+      "Lifetime Value": "KSh 3,483"
+    },
+    {
+      "Rank": 17,
+      "Phone Number": "254710514320",
+      "Vouchers Bought": "10",
+      "Total Spent": "KSh 3,456",
+      "Lifetime Value": "KSh 3,456"
+    },
+    {
+      "Rank": 18,
+      "Phone Number": "254702744133",
+      "Vouchers Bought": "86",
+      "Total Spent": "KSh 3,434",
+      "Lifetime Value": "KSh 3,434"
+    },
+    {
+      "Rank": 19,
+      "Phone Number": "254719308082",
+      "Vouchers Bought": "92",
+      "Total Spent": "KSh 3,350",
+      "Lifetime Value": "KSh 3,350"
+    },
+    {
+      "Rank": 20,
+      "Phone Number": "254702747536",
+      "Vouchers Bought": "88",
+      "Total Spent": "KSh 3,348",
+      "Lifetime Value": "KSh 3,348"
+    }
+  ],
+  "Repeat Customers": [
+    {
+      "Phone Number": "254701627326",
+      "Total Purchases": "222"
+    },
+    {
+      "Phone Number": "254745754571",
+      "Total Purchases": "145"
+    },
+    {
+      "Phone Number": "254728762828",
+      "Total Purchases": "106"
+    },
+    {
+      "Phone Number": "254759275395",
+      "Total Purchases": "105"
+    },
+    {
+      "Phone Number": "254758007245",
+      "Total Purchases": "97"
+    },
+    {
+      "Phone Number": "254759738408",
+      "Total Purchases": "97"
+    },
+    {
+      "Phone Number": "254742366514",
+      "Total Purchases": "95"
+    },
+    {
+      "Phone Number": "254758342906",
+      "Total Purchases": "94"
+    },
+    {
+      "Phone Number": "254711557443",
+      "Total Purchases": "93"
+    },
+    {
+      "Phone Number": "254720546229",
+      "Total Purchases": "92"
+    },
+    {
+      "Phone Number": "254719308082",
+      "Total Purchases": "92"
+    },
+    {
+      "Phone Number": "254714347948",
+      "Total Purchases": "91"
+    },
+    {
+      "Phone Number": "254702747536",
+      "Total Purchases": "88"
+    },
+    {
+      "Phone Number": "254702744133",
+      "Total Purchases": "86"
+    },
+    {
+      "Phone Number": "254793593689",
+      "Total Purchases": "85"
+    },
+    {
+      "Phone Number": "254798491192",
+      "Total Purchases": "78"
+    },
+    {
+      "Phone Number": "254703523623",
+      "Total Purchases": "77"
+    },
+    {
+      "Phone Number": "254769834775",
+      "Total Purchases": "76"
+    },
+    {
+      "Phone Number": "254727917247",
+      "Total Purchases": "76"
+    },
+    {
+      "Phone Number": "254718439707",
+      "Total Purchases": "75"
+    }
+  ],
+  "Package Stickiness": [
+    {
+      "Phone": "254701627326",
+      "Package Name": "3GB 6hrs",
+      "Times Bought": "213"
+    },
+    {
+      "Phone": "254728762828",
+      "Package Name": "5GB Daily",
+      "Times Bought": "104"
+    },
+    {
+      "Phone": "254742366514",
+      "Package Name": "5GB Daily",
+      "Times Bought": "95"
+    },
+    {
+      "Phone": "254758007245",
+      "Package Name": "5GB Daily",
+      "Times Bought": "93"
+    },
+    {
+      "Phone": "254714347948",
+      "Package Name": "5GB Daily",
+      "Times Bought": "89"
+    },
+    {
+      "Phone": "254711557443",
+      "Package Name": "5GB Daily",
+      "Times Bought": "85"
+    },
+    {
+      "Phone": "254702747536",
+      "Package Name": "5GB Daily",
+      "Times Bought": "82"
+    },
+    {
+      "Phone": "254758342906",
+      "Package Name": "5GB Daily",
+      "Times Bought": "82"
+    },
+    {
+      "Phone": "254759275395",
+      "Package Name": "5GB Daily",
+      "Times Bought": "79"
+    },
+    {
+      "Phone": "254702744133",
+      "Package Name": "5GB Daily",
+      "Times Bought": "78"
+    },
+    {
+      "Phone": "254793593689",
+      "Package Name": "5GB Daily",
+      "Times Bought": "78"
+    },
+    {
+      "Phone": "254798491192",
+      "Package Name": "5GB Daily",
+      "Times Bought": "75"
+    },
+    {
+      "Phone": "254720546229",
+      "Package Name": "3 GB",
+      "Times Bought": "73"
+    },
+    {
+      "Phone": "254718439707",
+      "Package Name": "5GB Daily",
+      "Times Bought": "72"
+    },
+    {
+      "Phone": "254727917247",
+      "Package Name": "5GB Daily",
+      "Times Bought": "72"
+    },
+    {
+      "Phone": "254759738408",
+      "Package Name": "8GB Daily",
+      "Times Bought": "72"
+    },
+    {
+      "Phone": "254769834775",
+      "Package Name": "5GB Daily",
+      "Times Bought": "71"
+    },
+    {
+      "Phone": "254718788180",
+      "Package Name": "5GB Daily",
+      "Times Bought": "65"
+    },
+    {
+      "Phone": "254725654093",
+      "Package Name": "5GB Daily",
+      "Times Bought": "65"
+    },
+    {
+      "Phone": "254702360826",
+      "Package Name": "5GB Daily",
+      "Times Bought": "62"
+    },
+    {
+      "Phone": "254748974700",
+      "Package Name": "5GB Daily",
+      "Times Bought": "61"
+    },
+    {
+      "Phone": "254716732365",
+      "Package Name": "5GB Daily",
+      "Times Bought": "59"
+    },
+    {
+      "Phone": "254719308082",
+      "Package Name": "3GB 6hrs",
+      "Times Bought": "57"
+    },
+    {
+      "Phone": "254759460423",
+      "Package Name": "3GB 6hrs",
+      "Times Bought": "53"
+    },
+    {
+      "Phone": "254112556526",
+      "Package Name": "5GB Daily",
+      "Times Bought": "53"
+    },
+    {
+      "Phone": "254740653828",
+      "Package Name": "5GB Daily",
+      "Times Bought": "50"
+    },
+    {
+      "Phone": "254798319274",
+      "Package Name": "5GB Daily",
+      "Times Bought": "49"
+    },
+    {
+      "Phone": "254742959657",
+      "Package Name": "8GB Daily",
+      "Times Bought": "47"
+    },
+    {
+      "Phone": "254114306858",
+      "Package Name": "5GB Daily",
+      "Times Bought": "43"
+    },
+    {
+      "Phone": "254746925098",
+      "Package Name": "5GB Daily",
+      "Times Bought": "43"
+    }
+  ],
+  "Weekly Trend": [
+    {
+      "Week": 202517,
+      "Vouchers Sold": "4",
+      "Revenue": "KSh 4"
+    },
+    {
+      "Week": 202518,
+      "Vouchers Sold": "1",
+      "Revenue": "KSh 1"
+    },
+    {
+      "Week": 202519,
+      "Vouchers Sold": "43",
+      "Revenue": "KSh 817"
+    },
+    {
+      "Week": 202520,
+      "Vouchers Sold": "97",
+      "Revenue": "KSh 1,935"
+    },
+    {
+      "Week": 202521,
+      "Vouchers Sold": "262",
+      "Revenue": "KSh 11,287"
+    },
+    {
+      "Week": 202522,
+      "Vouchers Sold": "309",
+      "Revenue": "KSh 13,593"
+    },
+    {
+      "Week": 202523,
+      "Vouchers Sold": "305",
+      "Revenue": "KSh 11,365"
+    },
+    {
+      "Week": 202524,
+      "Vouchers Sold": "369",
+      "Revenue": "KSh 13,699"
+    },
+    {
+      "Week": 202525,
+      "Vouchers Sold": "327",
+      "Revenue": "KSh 13,858"
+    },
+    {
+      "Week": 202526,
+      "Vouchers Sold": "325",
+      "Revenue": "KSh 12,580"
+    },
+    {
+      "Week": 202527,
+      "Vouchers Sold": "284",
+      "Revenue": "KSh 11,716"
+    },
+    {
+      "Week": 202528,
+      "Vouchers Sold": "282",
+      "Revenue": "KSh 12,078"
+    },
+    {
+      "Week": 202529,
+      "Vouchers Sold": "270",
+      "Revenue": "KSh 11,490"
+    },
+    {
+      "Week": 202530,
+      "Vouchers Sold": "261",
+      "Revenue": "KSh 11,530"
+    },
+    {
+      "Week": 202531,
+      "Vouchers Sold": "525",
+      "Revenue": "KSh 11,886"
+    },
+    {
+      "Week": 202532,
+      "Vouchers Sold": "257",
+      "Revenue": "KSh 10,502"
+    },
+    {
+      "Week": 202533,
+      "Vouchers Sold": "298",
+      "Revenue": "KSh 12,875"
+    },
+    {
+      "Week": 202534,
+      "Vouchers Sold": "264",
+      "Revenue": "KSh 13,482"
+    },
+    {
+      "Week": 202535,
+      "Vouchers Sold": "225",
+      "Revenue": "KSh 8,948"
+    },
+    {
+      "Week": 202536,
+      "Vouchers Sold": "211",
+      "Revenue": "KSh 8,217"
+    },
+    {
+      "Week": 202537,
+      "Vouchers Sold": "248",
+      "Revenue": "KSh 10,775"
+    },
+    {
+      "Week": 202538,
+      "Vouchers Sold": "374",
+      "Revenue": "KSh 19,032"
+    },
+    {
+      "Week": 202539,
+      "Vouchers Sold": "363",
+      "Revenue": "KSh 16,705"
+    }
+  ],
+  "Monthly Trend": [
+    {
+      "Month": "2025-04",
+      "Vouchers Sold": "5",
+      "Revenue": "KSh 5"
+    },
+    {
+      "Month": "2025-05",
+      "Vouchers Sold": "674",
+      "Revenue": "KSh 25,947"
+    },
+    {
+      "Month": "2025-06",
+      "Vouchers Sold": "1,405",
+      "Revenue": "KSh 54,433"
+    },
+    {
+      "Month": "2025-07",
+      "Vouchers Sold": "1,441",
+      "Revenue": "KSh 52,208"
+    },
+    {
+      "Month": "2025-08",
+      "Vouchers Sold": "1,183",
+      "Revenue": "KSh 51,053"
+    },
+    {
+      "Month": "2025-09",
+      "Vouchers Sold": "1,196",
+      "Revenue": "KSh 54,729"
+    }
+  ],
+  "Monthly by Station": [
+    {
+      "Month": "2025-04",
+      "Station Name": "mumias",
+      "Vouchers Sold": "5"
+    },
+    {
+      "Month": "2025-05",
+      "Station Name": "Daystar",
+      "Vouchers Sold": "603"
+    },
+    {
+      "Month": "2025-05",
+      "Station Name": "Juja",
+      "Vouchers Sold": "66"
+    },
+    {
+      "Month": "2025-05",
+      "Station Name": "mumias",
+      "Vouchers Sold": "4"
+    },
+    {
+      "Month": "2025-05",
+      "Station Name": "bookers",
+      "Vouchers Sold": "1"
+    },
+    {
+      "Month": "2025-06",
+      "Station Name": "Daystar",
+      "Vouchers Sold": "1,229"
+    },
+    {
+      "Month": "2025-06",
+      "Station Name": "Juja",
+      "Vouchers Sold": "172"
+    },
+    {
+      "Month": "2025-06",
+      "Station Name": "mumias",
+      "Vouchers Sold": "4"
+    },
+    {
+      "Month": "2025-07",
+      "Station Name": "Daystar",
+      "Vouchers Sold": "1,119"
+    },
+    {
+      "Month": "2025-07",
+      "Station Name": "Public Hotspot",
+      "Vouchers Sold": "231"
+    },
+    {
+      "Month": "2025-07",
+      "Station Name": "Juja",
+      "Vouchers Sold": "90"
+    },
+    {
+      "Month": "2025-07",
+      "Station Name": "mumias",
+      "Vouchers Sold": "1"
+    },
+    {
+      "Month": "2025-08",
+      "Station Name": "Daystar",
+      "Vouchers Sold": "1,121"
+    },
+    {
+      "Month": "2025-08",
+      "Station Name": "Juja",
+      "Vouchers Sold": "49"
+    },
+    {
+      "Month": "2025-08",
+      "Station Name": "mumias",
+      "Vouchers Sold": "13"
+    },
+    {
+      "Month": "2025-09",
+      "Station Name": "Daystar",
+      "Vouchers Sold": "1,109"
+    },
+    {
+      "Month": "2025-09",
+      "Station Name": "Juja",
+      "Vouchers Sold": "78"
+    },
+    {
+      "Month": "2025-09",
+      "Station Name": "mumias",
+      "Vouchers Sold": "9"
+    }
+  ],
+  "Cross Station Sales": [
+    {
+      "Station": "Daystar",
+      "Package": "5GB Daily",
+      "Sold": "3,307"
+    },
+    {
+      "Station": "Daystar",
+      "Package": "3GB 6hrs",
+      "Sold": "1,037"
+    },
+    {
+      "Station": "Daystar",
+      "Package": "8GB Daily",
+      "Sold": "528"
+    },
+    {
+      "Station": "Daystar",
+      "Package": "20GB Weekly",
+      "Sold": "263"
+    },
+    {
+      "Station": "Juja",
+      "Package": "3 GB",
+      "Sold": "261"
+    },
+    {
+      "Station": "Public Hotspot",
+      "Package": "5GB Daily",
+      "Sold": "231"
+    },
+    {
+      "Station": "Juja",
+      "Package": "5GB",
+      "Sold": "83"
+    },
+    {
+      "Station": "Juja",
+      "Package": "3GB",
+      "Sold": "68"
+    },
+    {
+      "Station": "Daystar",
+      "Package": "100GB Monthly",
+      "Sold": "46"
+    },
+    {
+      "Station": "Juja",
+      "Package": "20GB",
+      "Sold": "24"
+    },
+    {
+      "Station": "mumias",
+      "Package": "3GB",
+      "Sold": "18"
+    },
+    {
+      "Station": "Juja",
+      "Package": "100GB",
+      "Sold": "12"
+    },
+    {
+      "Station": "mumias",
+      "Package": "Monthly_plan",
+      "Sold": "8"
+    },
+    {
+      "Station": "Juja",
+      "Package": "8GB",
+      "Sold": "7"
+    },
+    {
+      "Station": "mumias",
+      "Package": "monthly 20mbps",
+      "Sold": "4"
+    },
+    {
+      "Station": "mumias",
+      "Package": "8mbps",
+      "Sold": "2"
+    },
+    {
+      "Station": "bookers",
+      "Package": "3GB",
+      "Sold": "1"
+    },
+    {
+      "Station": "mumias",
+      "Package": "kayole ppoe",
+      "Sold": "1"
+    },
+    {
+      "Station": "mumias",
+      "Package": "kayole ppoe2",
+      "Sold": "1"
+    },
+    {
+      "Station": "mumias",
+      "Package": "Monthly ppoe daystar",
+      "Sold": "1"
+    },
+    {
+      "Station": "mumias",
+      "Package": "Monthly_ppoe",
+      "Sold": "1"
+    }
+  ],
+  "Sales by Package": [
+    {
+      "Package Name": "5GB Daily",
+      "Total Vouchers": "3,538"
+    },
+    {
+      "Package Name": "3GB 6hrs",
+      "Total Vouchers": "1,037"
+    },
+    {
+      "Package Name": "8GB Daily",
+      "Total Vouchers": "528"
+    },
+    {
+      "Package Name": "20GB Weekly",
+      "Total Vouchers": "263"
+    },
+    {
+      "Package Name": "3 GB",
+      "Total Vouchers": "261"
+    },
+    {
+      "Package Name": "3GB",
+      "Total Vouchers": "87"
+    },
+    {
+      "Package Name": "5GB",
+      "Total Vouchers": "83"
+    },
+    {
+      "Package Name": "100GB Monthly",
+      "Total Vouchers": "46"
+    },
+    {
+      "Package Name": "20GB",
+      "Total Vouchers": "24"
+    },
+    {
+      "Package Name": "100GB",
+      "Total Vouchers": "12"
+    },
+    {
+      "Package Name": "Monthly_plan",
+      "Total Vouchers": "8"
+    },
+    {
+      "Package Name": "8GB",
+      "Total Vouchers": "7"
+    },
+    {
+      "Package Name": "monthly 20mbps",
+      "Total Vouchers": "4"
+    },
+    {
+      "Package Name": "8mbps",
+      "Total Vouchers": "2"
+    },
+    {
+      "Package Name": "kayole ppoe",
+      "Total Vouchers": "1"
+    },
+    {
+      "Package Name": "kayole ppoe2",
+      "Total Vouchers": "1"
+    },
+    {
+      "Package Name": "Monthly ppoe daystar",
+      "Total Vouchers": "1"
+    },
+    {
+      "Package Name": "Monthly_ppoe",
+      "Total Vouchers": "1"
+    }
+  ],
+  "Sales by Station": [
+    {
+      "Station Name": "Daystar",
+      "Total Vouchers": "5,181"
+    },
+    {
+      "Station Name": "Juja",
+      "Total Vouchers": "455"
+    },
+    {
+      "Station Name": "Public Hotspot",
+      "Total Vouchers": "231"
+    },
+    {
+      "Station Name": "mumias",
+      "Total Vouchers": "36"
+    },
+    {
+      "Station Name": "bookers",
+      "Total Vouchers": "1"
+    }
+  ]
+}
